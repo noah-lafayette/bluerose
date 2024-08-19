@@ -208,6 +208,8 @@ See [vagrant/README.md](vagrant/README.md).
 
 ### Contribution ###
 
+Test
+
 Apache Kafka is interested in building the community; we would welcome any thoughts or [patches](https://issues.apache.org/jira/browse/KAFKA). You can reach us [on the Apache mailing lists](http://kafka.apache.org/contact.html).
 
 To contribute follow the instructions here:
